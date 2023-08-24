@@ -1,7 +1,7 @@
 
 function SaltosDeRana(x,y,d){
     let saltos = 0
-    while (x<=y){
+    while (x<y){
         saltos++
        x += d
    }
