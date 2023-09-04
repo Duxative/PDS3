@@ -5,7 +5,7 @@ function SaltosDeRana(x,y,d){
         saltos++
        x += d
    }
-    console.log(`Los saltos que dio fueron ${saltos} y llegó a la distancia de ${x} `)
+    console.log(`Los saltos que dio fueron ${saltos} y llegó a la distancia de ${x}`)
 }
 
 SaltosDeRana(20,85,30)
